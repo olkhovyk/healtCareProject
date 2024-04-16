@@ -1,1 +1,3 @@
-spring.application.name=healthcare
+spring:
+  application:
+    name: healthcare

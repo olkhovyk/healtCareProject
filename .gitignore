@@ -17,3 +17,12 @@
 /.gradle/buildOutputCleanup/outputFiles.bin
 /build/tmp/compileJava/previous-compilation-data.bin
 /.gradle/8.7/fileHashes/resourceHashesCache.bin
+/.idea/.name
+/out/production/resources/application.yml
+/.idea/compiler.xml
+/.idea/gradle.xml
+/out/production/classes/com/oril/healthcare/HealthcareApplication.class
+/out/production/classes/com/oril/healthcare/controller/HelloWorldController.class
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/vcs.xml
