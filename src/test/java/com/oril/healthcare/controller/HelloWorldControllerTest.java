@@ -17,6 +17,6 @@ class HelloWorldControllerTest {
 
     @Test
     void helloWorld() {
-        Assertions.assertTrue(true);
+        Assertions.assertTrue(false);
     }
 }
